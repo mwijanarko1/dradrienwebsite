@@ -147,7 +147,7 @@ export default function AboutPage() {
                 <h2 className="text-3xl font-bold mb-8">Islamic Studies</h2>
                 <div className="space-y-6">
                   <p>
-                    In parallel to his scientific training, Adrien studied Arabic and the fundament of classical Islamic sciences with local scholars. He was introduced to the fields of 'Aquida, Tafsir, Fiqu and Usul al-Fiqu with Sheikh Tewfik Choukri, Indianapolis, USA.
+                    In parallel to his scientific training, Adrien studied Arabic and the fundament of classical Islamic sciences with local scholars. He was introduced to the fields of &apos;Aquida, Tafsir, Fiqu and Usul al-Fiqu with Sheikh Tewfik Choukri, Indianapolis, USA.
                   </p>
                   <p>
                     He was then exposed to Islamic spirituality through Imam Abdulwahid Kort, Lausanne, and Dr. Hani Ramadan, Geneva, Switzerland. He learned Arabic at university and through various intensive programs online as well as in person, locally and abroad.
@@ -163,7 +163,7 @@ export default function AboutPage() {
                 <div className="bg-gray-50 p-6 rounded-xl">
                   <h3 className="text-lg font-semibold text-gray-900 mb-3">Classical Studies</h3>
                   <ul className="space-y-2 text-gray-600">
-                    <li>• 'Aquida</li>
+                    <li>• &apos;Aquida</li>
                     <li>• Tafsir</li>
                     <li>• Fiqu</li>
                     <li>• Usul al-Fiqu</li>
@@ -242,7 +242,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-4">Muslim Chaplaincy</h3>
               <p className="text-gray-600">
-                Active member of the University's Muslim chaplaincy, supporting spiritual and cultural engagement.
+                Active member of the University&apos;s Muslim chaplaincy, supporting spiritual and cultural engagement.
               </p>
             </div>
           </div>

@@ -82,7 +82,7 @@ export default function Home() {
           </p>
           <div className="mt-10 space-y-4 animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-700">
             <div className="bg-blue-50 p-6 rounded-xl">
-              <p className="text-lg text-gray-700">Sacred texts brim with insights into nature's mysteries.</p>
+              <p className="text-lg text-gray-700">Sacred texts brim with insights into nature&apos;s mysteries.</p>
             </div>
             <div className="bg-blue-50 p-6 rounded-xl">
               <p className="text-lg text-gray-700">Scientific breakthroughs unravel questions once deemed philosophical.</p>
