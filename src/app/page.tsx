@@ -89,7 +89,7 @@ export default function Home() {
             </div>
           </div>
           <p className="text-xl text-gray-600 leading-relaxed mt-10 animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-900">
-            This is the frontier we're exploring.
+            This is the frontier we&apos;re exploring.
           </p>
         </div>
       </section>
@@ -158,7 +158,7 @@ export default function Home() {
           </div>
           
           <p className="text-xl text-gray-600 leading-relaxed mt-12 text-center animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-700">
-            Join us at the intersection of the measurable and the mysterious. Let's explore how ancient wisdom and modern inquiry might together light the way forward.
+            Join us at the intersection of the measurable and the mysterious. Let&apos;s explore how ancient wisdom and modern inquiry might together light the way forward.
           </p>
         </div>
       </section>
