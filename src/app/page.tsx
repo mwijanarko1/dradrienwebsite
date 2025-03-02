@@ -75,7 +75,7 @@ export default function Home() {
             The Electric Crossroads
           </h2>
           <p className="text-xl text-gray-600 leading-relaxed mb-8 animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-300">
-            What happens when empirical inquiry meets ancient wisdom? When the "how" of discovery collides with the "why" of existence? This is the electric crossroads where curiosity and faith ignite a deeper truth: <span className="font-semibold">they need each other</span>.
+            What happens when empirical inquiry meets ancient wisdom? When the &quot;how&quot; of discovery collides with the &quot;why&quot; of existence? This is the electric crossroads where curiosity and faith ignite a deeper truth: <span className="font-semibold">they need each other</span>.
           </p>
           <p className="text-xl text-gray-600 leading-relaxed animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-500">
             For too long, science and religion have been framed as rivals. But look closer:
@@ -103,7 +103,7 @@ export default function Home() {
           </h2>
           
           <p className="text-xl text-gray-600 leading-relaxed mb-12 text-center animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-300">
-            In an age where algorithms parse our desires and data shapes our beliefs, the dialogue between science and spirituality isn't just academic—it's urgent.
+            In an age where algorithms parse our desires and data shapes our beliefs, the dialogue between science and spirituality isn&apos;t just academic—it&apos;s urgent.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -127,7 +127,7 @@ export default function Home() {
             
             <div className="animate-on-scroll opacity-0 translate-y-12 transition-all duration-1000 delay-700">
               <div className="bg-white p-8 rounded-xl shadow-sm h-full">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Life's Boundaries</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-4">Life&apos;s Boundaries</h3>
                 <p className="text-gray-600">
                   Where does the code of life end and the soul begin?
                 </p>
@@ -152,7 +152,7 @@ export default function Home() {
           <div className="bg-gradient-to-r from-blue-600 to-teal-500 p-1 rounded-xl animate-on-scroll opacity-0 translate-y-8 transition-all duration-1000 delay-500">
             <div className="bg-white p-8 rounded-lg">
               <p className="text-2xl text-center text-gray-800 italic">
-                "How far might harmony reach if science and religion dare to listen to one another?"
+                &quot;How far might harmony reach if science and religion dare to listen to one another?&quot;
               </p>
             </div>
           </div>
